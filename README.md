@@ -79,7 +79,7 @@ We welcome feedback and suggestions! Open an issue or submit a pull request to c
 
 For questions or collaborations, please reach out:
 
-- Abhiram Kothagundu - [LinkedIn](www.linkedin.com/in/abhiram-kothagundu)
+- Abhiram Kothagundu - [LinkedIn](https://www.linkedin.com/in/abhiram-kothagundu)
 - Kaushal Edara - [LinkedIn](https://www.linkedin.com/in/kaushal-edara/)
 - Vihaan Thatiparti - [LinkedIn](https://www.linkedin.com/in/vihaan-thatiparthi-1394b6289/)
 - Mithun U - [LinkedIn](https://www.linkedin.com/in/mithun-u750/)
