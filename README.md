@@ -42,7 +42,7 @@ Due to file size limitations, the full game files are hosted on Google Drive. Ac
 
 ## 🛠️ Installation Instructions
 
-1. **Download the Executable**: From the [Releases](https://github.com/your-repo-name/releases).
+1. **Download the Executable**: From the [Releases](https://github.com/AbhiramKothagundu/GlobalGameJam2024/tree/main/Executables).
 2. **Run the Game**: Simply execute the file on your machine to start playing.
 
 For the full development setup:
