@@ -30,7 +30,7 @@ The game starts with an intro animation where the protagonist falls asleep and w
 
 ### Play the Game
 
-Download the executables from the [Releases](https://github.com/AbhiramKothagundu/GlobalGameJam2024) section of this repository and start playing right away!
+Download the executables from the [Releases](https://github.com/AbhiramKothagundu/GlobalGameJam2024/tree/main/Executables) section of this repository and start playing right away!
 
 ### Full Game Files
 
